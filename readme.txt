@@ -1,4 +1,7 @@
+Project address: https://github.com/HuaizhengZhang/search_engine_6226
+
 System:
+
 Ubuntu 14.04
 Python 2.7
 JDK 1.8
@@ -22,14 +25,14 @@ Open terminal and creat a dir, then copy this dir and Post.xml document to your 
 1. About search engine:
     a. index your Post.xml document by using 'python QA_indexer.py'
     b. run 'python QA_searcher.py' and choose your choice according to GUI noticing
-    c. you can watch output here
+    c. you can watch output here https://github.com/HuaizhengZhang/search_engine_6226/tree/master/search_engine_output
 
 2. Deep Learning trend app
     a. index your Post.xml document by using 'python DL_trend_indexer.py'
     b. run 'python DL_trend_searcher.py' and choose your choice according to GUI noticing
-    c. you can watch output here
+    c. you can watch output here https://github.com/HuaizhengZhang/search_engine_6226/tree/master/DL_trend_output
 
 3. The top 10 question
     a. index your Post.xml document by using 'python TA_indexer.py'
     b. run 'python TA_searcher.py' and choose your choice according to GUI noticing
-    c. you can watch output here
+    c. you can watch output here https://github.com/HuaizhengZhang/search_engine_6226/tree/master/Top_question_output
