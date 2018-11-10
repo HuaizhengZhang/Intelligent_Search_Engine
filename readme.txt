@@ -1,12 +1,12 @@
-Project address: https://github.com/HuaizhengZhang/search_engine_6226
+## Intellgence Search Engine
 
-System:
+# System:
 
 Ubuntu 14.04
 Python 2.7
 JDK 1.8
 
-The third lib you need:
+# The third lib you need:
 
 ant: http://www-us.apache.org/dist//ant/source/apache-ant-1.10.1-src.zip (sudo apt-get install ant)
 pylucene: http://www-eu.apache.org/dist/lucene/pylucene/pylucene-6.4.1-src.tar.gz
@@ -18,21 +18,21 @@ matplotlib: http://matplotlib.org/ (sudo pip install matplotlib)
 numpy: http://www.numpy.org/ (sudo pip install numpy)
 
 
-How to run:
+## How to run:
 
 Open terminal and creat a dir, then copy this dir and Post.xml document to your dir
 
-1. About search engine:
+# 1. About search engine:
     a. index your Post.xml document by using 'python QA_indexer.py'
     b. run 'python QA_searcher.py' and choose your choice according to GUI noticing
     c. you can watch output here https://github.com/HuaizhengZhang/search_engine_6226/tree/master/search_engine_output
 
-2. Deep Learning trend app
+# 2. Deep Learning trend app
     a. index your Post.xml document by using 'python DL_trend_indexer.py'
     b. run 'python DL_trend_searcher.py' and choose your choice according to GUI noticing
     c. you can watch output here https://github.com/HuaizhengZhang/search_engine_6226/tree/master/DL_trend_output
 
-3. The top 10 question
+# 3. The top 10 question
     a. index your Post.xml document by using 'python TA_indexer.py'
     b. run 'python TA_searcher.py' and choose your choice according to GUI noticing
     c. you can watch output here https://github.com/HuaizhengZhang/search_engine_6226/tree/master/Top_question_output
